@@ -1,1 +1,2 @@
-My GIT Test File
+And now I've added some new text.
+Let's see what happens now.
